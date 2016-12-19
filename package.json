@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "www-https-redirect",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "0.0.0"
+}
