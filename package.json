@@ -1,4 +1,9 @@
 {
+  "author": {
+    "name": "Colin Meinke",
+    "email": "hello@colinmeinke.com",
+    "url": "https://colinmeinke.com"
+  },
   "dependencies": {
     "express": "^4.14.0"
   },
